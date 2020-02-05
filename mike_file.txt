@@ -1,1 +1,31 @@
-hello from mike
+Passing build steps:
+1. Push new branch
+	Build passes
+	Artifact is uploaded
+	All PR Checks pass
+	If Jira ticket == branch name, comment to Jira is posted
+	Badge in README.md file is green and says "passing"
+2. Pull Request to Integration
+	Build Passes
+	Artifact is uploaded
+	All PR Checks pass
+	If Jira ticket == branch name, comment to Jira is posted
+	Posts comment to PR about build
+	Badge in README.md file is green and says "passing"
+3. Merge into Integration
+	Build Passes
+	Artifact is uploaded
+	All PR Checks pass
+	Badge in README.md file is green and says "passing"
+4. Pull Request to Master
+	Build Passes
+	Artifact is uploaded
+	All PR Checks pass
+	Posts comment to PR about build
+	Badge in README.md file is green and says "passing"
+5. Merge to Master
+	Build Passes
+	Artifact is uploaded
+	All PR Checks pass
+	Github Release is created with commit messages
+	Badge in README.md file is green and says "passing"
