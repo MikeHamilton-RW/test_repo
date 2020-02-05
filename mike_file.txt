@@ -17,7 +17,7 @@ Passing build steps:
 	Artifact is uploaded
 	All PR Checks pass
 	Badge in README.md file is green and says "passing"
-4. Pull Request to Master
+4. Pull Request to Master!
 	Build Passes
 	Artifact is uploaded
 	All PR Checks pass
