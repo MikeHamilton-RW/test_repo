@@ -23,6 +23,8 @@ Passing build steps:
 	All PR Checks pass
 	Posts comment to PR about build
 	Badge in README.md file is green and says "passing"
+	
+	added two lines to see what happens
 5. Merge to Master
 	Build Passes
 	Artifact is uploaded
