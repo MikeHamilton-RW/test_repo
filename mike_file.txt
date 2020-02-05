@@ -1,7 +1,7 @@
 Passing build steps:
 1. Push new branch
 	Build passes
-	Artifact is uploaded
+	Artifact is uploaded AND IT WORKS JUST FINEs
 	All PR Checks pass
 	If Jira ticket == branch name, comment to Jira is posted
 	Badge in README.md file is green and says "passing"
