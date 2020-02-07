@@ -1,4 +1,2 @@
 # test_repo
-test repo
-
-test change
+We can never destroy this repo!
